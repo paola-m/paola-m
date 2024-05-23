@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy Paola Martinez 👋
 
 ![Profile Banner](https://your-image-link-here.com/banner.jpg)
 
