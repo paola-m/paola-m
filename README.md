@@ -1,5 +1,6 @@
 <!----------------------------------- Heading Section ------------------------------------>
 <p align="center">
+    ![Header]([github-header-image (1).png](https://github.com/paola-m/paola-m/assets/55813649/29f66532-aa6f-4541-8af3-69228b236451))
 ![github-header-image (1)](https://github.com/paola-m/paola-m/assets/55813649/29f66532-aa6f-4541-8af3-69228b236451)
 </p>
 <!----------------------------------- Tech Stack Section ------------------------------------>
