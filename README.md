@@ -1,16 +1,17 @@
-## Hi there 👋
+## Tecnologías y Herramientas
 
-<!--
-**paola-m/paola-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Lenguajes**: Java, Python, JavaScript
+- **Frameworks**: Spring Boot, Hibernate, JUnit
+- **Bases de Datos**: MySQL, PostgreSQL, MongoDB
+- **Herramientas**: Git, Docker, Jenkins, Maven
+- **Metodologías**: Agile, Scrum, TDD
 
-Here are some ideas to get you started:
+## Proyectos Destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Proyecto 1: Sistema de Gestión de Inventarios](https://github.com/tu-usuario/proyecto1)
+
+![Inventory Management System](https://your-image-link-here.com/project1.jpg)
+
+- **Descripción**: Desarrollé un sistema de gestión de inventarios para una cadena de tiendas, permitiendo la gestión de productos, proveedores y clientes.
+- **Tecnologías Usadas**: Java, Spring Boot, MySQL, Thymeleaf
+- **Características Cl
