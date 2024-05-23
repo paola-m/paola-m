@@ -8,25 +8,13 @@ Ingeniero de Software y Desarrollador Java con experiencia en la implementación
 
 ## Tech Stack
 
-```javascript
-const s_tuNombre = {
-    bio: "¡Hola! [Tu Nombre] aquí 👨‍💻, Ingeniero de Software apasionado por el desarrollo de soluciones tecnológicas eficientes y de alta calidad.",
-    techStack: {
-        languages: ["Java", "HTML", "CSS", "SQL"],
-        frameworks: ["Spring Boot"],
-        tools: ["Swagger", "JUnit", "SonarQube", "GitHub"],
+ techStack: {
+        languages: ["JavaScript", "TypeScript"],
+        libraries: ["React", "Vue"],
+        frameworks: ["Next.js", "Vite", "Bootstrap"],
+        cssTools: ["SASS", "TailwindCSS", "Less"],
+        deployment: ["Github Pages", "Firebase", "Vercel", "Netlify"],
     },
-    experience: [
-        {
-            project: "Sistema de Gestión de Inventarios",
-            description: "Desarrollé un sistema de gestión de inventarios para una cadena de tiendas, permitiendo la gestión de productos, proveedores y clientes.",
-            technologies: ["Java", "Spring Boot", "MySQL", "Thymeleaf"],
-            highlights: [
-                "Integración con Swagger para la documentación de APIs",
-                "Pruebas unitarias con JUnit",
-                "Análisis de calidad del código con SonarQube"
-            ],
-        }
-    ],
-    motto: "Apasionado por el desarrollo de soluciones tecnológicas eficientes y de alta calidad 🚀",
+    designTools: ["Figma", "InVision", "Adobe XD", "Framer"],
+    motto: "Keep it simple and stupid ✨",
 };
