@@ -1,7 +1,7 @@
 ## Hi there 👋
 <!----------------------------------- Heading Section ------------------------------------>
 <p align="center">
-    <img src="https://github.com/paola-m/paola-m/assets/55813649/b4b3484d-db8c-48b4-a796-e652a4e7c95a" width="1000px" height="150px">
+    <img src="https://github.com/paola-m/paola-m/assets/55813649/98046546-dee4-4de3-8789-a322b8bb6260" width="900px" height="150px">
 </p>
 <!----------------------------------- Tech Stack Section ------------------------------------>
 <h2 align="center">
