@@ -1,12 +1,13 @@
+## Hi there 👋
 <!----------------------------------- Heading Section ------------------------------------>
 <p align="center">
-    <img src="https://github.com/paola-m/paola-m/blob/main/github-header-image%20(1).png">
+    <img src="https://github.com/paola-m/paola-m/assets/55813649/b4b3484d-db8c-48b4-a796-e652a4e7c95a" height="150">
 </p>
 <!----------------------------------- Tech Stack Section ------------------------------------>
 <h2 align="center">
     My Tech Stack
     <a>
-        <img align="center" src="https://user-images.githubusercontent.com/52236473/210716459-e792742d-9443-4a83-96c4-fea099a560b7.png" width="30" />   
+        <img align="center" src="https://user-images.githubusercontent.com/52236473/210716459-e792742d-9443-4a83-96c4-fea099a560b7.png" width="25" />   
     <a/>
 </h2>
 <p align="center">
