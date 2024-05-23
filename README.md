@@ -1,7 +1,7 @@
 ## Hi there 👋
 <!----------------------------------- Heading Section ------------------------------------>
 <p align="center">
-    <img src="https://github.com/paola-m/paola-m/assets/55813649/b4b3484d-db8c-48b4-a796-e652a4e7c95a" height="150">
+    <img src="https://github.com/paola-m/paola-m/assets/55813649/b4b3484d-db8c-48b4-a796-e652a4e7c95a" width="1000px" height="150px">
 </p>
 <!----------------------------------- Tech Stack Section ------------------------------------>
 <h2 align="center">
@@ -11,7 +11,7 @@
     <a/>
 </h2>
 <p align="center">
-    <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-D6002F%3F?style=for-the-badge&logoColor=white&labelColor=%23f50000&color=%23f50000">
+    <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-D6002F%3F?style=for-the-badge&logoColor=white&labelColor=%23f50000&color=%23f50000" >
     <img alt="Static Badge" src="https://img.shields.io/badge/Spring_Boot-D6002F%3F?style=for-the-badge&logo=Spring%20Boot&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/Junit-D6002F%3F?style=for-the-badge&logo=Junit5&logoColor=white&labelColor=%2325A162&color=%2325A162">
     <img alt="Static Badge" src="https://img.shields.io/badge/DBeaver-D6002F%3F?style=for-the-badge&logo=DBeaver&logoColor=white&labelColor=%23382923&color=%23382923">
